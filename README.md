@@ -1,5 +1,4 @@
-# Wave
-A Private Back-end Repository for 1xgames/1dotnetwork
+# Wave The Private Back-end Repository for 1xgames/1dotnetwork
 Wave is a private back-end repository used by 1xgames/1dotnetwork to store game files for hosting on our websites. This repository serves as a central location for all game-related data, including game logic, assets, and configuration files.
 
 Developed using the latest technologies, Wave ensures high performance and scalability, making it an ideal solution for hosting games for our websites. The repository is built on top of GitHub and follows industry-standard best practices, making it easy to maintain and collaborate with other developers in our organization.
